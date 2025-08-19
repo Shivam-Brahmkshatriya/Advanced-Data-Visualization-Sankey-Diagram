@@ -1,0 +1,20 @@
+source,target,flow (MWh/yr)
+Natural Gas,Boilers,900
+Natural Gas,CHP Plant,400
+Coal,Boilers,700
+Grid Electricity,Electric Drives,800
+Grid Electricity,HVAC Systems,200
+Grid Electricity,Lighting Systems,150
+Grid Electricity,Air Compressors,100
+Solar PV,Electric Drives,60
+Wind,Electric Drives,80
+Biomass,Boilers,120
+Boilers,Process Heat (High Temp),1100
+Boilers,Process Heat (Low/Med Temp),620
+CHP Plant,Machine Drive,200
+CHP Plant,Facility HVAC,150
+CHP Plant,Process Heat (Low/Med Temp),50
+Electric Drives,Machine Drive,940
+HVAC Systems,Facility HVAC,200
+Lighting Systems,Lighting,150
+Air Compressors,Compressed Air,100
